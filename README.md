@@ -1,24 +1,34 @@
 # 🎬 Netflix Login Page
 
-Uma recriação da interface de login da **Netflix**, desenvolvida com **HTML e CSS**, com foco em praticar conceitos de desenvolvimento Front-End, estruturação de páginas e criação de interfaces modernas e responsivas.
+Uma recriação da interface de login da **Netflix**, desenvolvida por mim utilizando **HTML5 e CSS3**.
+
+Este projeto foi criado como uma forma de praticar e aprimorar minhas habilidades em **desenvolvimento Front-End**, trabalhando principalmente com estruturação de páginas, estilização, posicionamento de elementos e criação de interfaces responsivas.
+
+## 🌐 Projeto Online
+
+🔗 **[Acessar o projeto](https://nongoantonio.github.io/Tela_de_login_da_Netflix/)**
 
 ## 📸 Preview
 
 ![Netflix Login Page](./assets/netflix-login.png)
 
-## 🚀 Sobre o projeto
+## 📖 Sobre o projeto
 
-Este projeto foi desenvolvido como um exercício prático de **Front-End**, inspirado na interface de login da Netflix.
+Desenvolvi este projeto inspirado na página de login da Netflix, buscando reproduzir sua identidade visual e sua organização de elementos.
 
-O objetivo principal foi reproduzir a aparência e a experiência visual da página, trabalhando conceitos como:
+Durante o desenvolvimento, trabalhei conceitos importantes de Front-End, como:
 
-* Estruturação semântica com HTML5
-* Estilização e layout com CSS3
-* Responsividade
+* Estruturação de páginas com HTML5
+* Estilização com CSS3
+* Criação de layouts modernos
 * Posicionamento e alinhamento de elementos
-* Formulários e campos de entrada
+* Criação de formulários
+* Campos de entrada e botões
 * Tipografia e hierarquia visual
-* Uso de imagens e elementos de interface
+* Responsividade para diferentes tamanhos de tela
+* Organização de arquivos em um projeto Front-End
+
+O objetivo foi transformar uma referência visual em uma página funcional e visualmente próxima da interface original, colocando em prática os conhecimentos que venho adquirindo em desenvolvimento web.
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -42,47 +52,62 @@ Tela_de_login_da_Netflix/
 └── README.md
 ```
 
-## 💻 Como executar
+## 💻 Como executar o projeto
 
-Clone o repositório:
+Primeiro, clone este repositório:
 
 ```bash
 git clone https://github.com/nongoantonio/Tela_de_login_da_Netflix.git
 ```
 
-Entre na pasta:
+Entre na pasta do projeto:
 
 ```bash
 cd Tela_de_login_da_Netflix
 ```
 
-Depois, abra o arquivo `index.html` no navegador.
+Depois, abra o arquivo `index.html` no seu navegador.
 
-Você também pode utilizar a extensão **Live Server** no Visual Studio Code para executar o projeto localmente.
+Também é possível utilizar a extensão **Live Server** no Visual Studio Code para executar o projeto localmente.
 
-## 🎯 Objetivos
+## 🎯 O que aprendi com este projeto
 
-Este projeto teve como principais objetivos:
+Ao desenvolver este projeto, pude praticar e melhorar meus conhecimentos em:
 
-* Praticar HTML e CSS;
-* Melhorar a construção de layouts;
-* Desenvolver interfaces visualmente fiéis a referências;
-* Trabalhar responsividade;
-* Aperfeiçoar habilidades de desenvolvimento Front-End.
+* HTML semântico
+* CSS
+* Flexbox
+* Responsividade
+* Organização de layouts
+* Formulários
+* Posicionamento de elementos
+* Estruturação de projetos Front-End
+* Reprodução de interfaces a partir de referências visuais
+
+Este projeto também faz parte da minha evolução como desenvolvedor, servindo como prática para projetos cada vez mais completos.
+
+## 📱 Responsividade
+
+A interface foi desenvolvida pensando em diferentes tamanhos de tela, buscando proporcionar uma experiência agradável tanto em **computadores** quanto em **dispositivos móveis**.
 
 ## ⚠️ Aviso
 
-Este é um projeto **educacional e não oficial**, desenvolvido apenas para fins de estudo e prática de desenvolvimento Front-End.
+Este projeto é **educacional e não oficial**.
 
-Netflix é uma marca registrada de seus respectivos proprietários. Este projeto não possui qualquer vínculo oficial com a Netflix.
+Foi desenvolvido por mim exclusivamente para fins de estudo e prática de desenvolvimento Front-End.
+
+**Netflix** é uma marca registrada de seus respectivos proprietários. Este projeto não possui qualquer vínculo, parceria ou afiliação oficial com a Netflix.
 
 ## 👨‍💻 Autor
 
-**Nongo Antonio**
+### Nongo Antonio
 
-Desenvolvedor Front-End em formação, interessado em criar interfaces modernas, responsivas e experiências digitais intuitivas.
+Desenvolvedor Front-End em formação, apaixonado por tecnologia e pelo desenvolvimento de interfaces modernas, responsivas e intuitivas.
+
+🔗 **GitHub:** [github.com/nongoantonio](https://github.com/nongoantonio)
 
 ---
 
-⭐ Se este projeto foi útil para você, considere deixar uma estrela no repositório!
+⭐ Se você gostou do projeto, considere deixar uma estrela no repositório!
 
+**Feito por Nongo Antonio ❤️**
